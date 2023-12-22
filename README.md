@@ -4,7 +4,7 @@ A classic Snake Game implemented in HTML, CSS, and JavaScript. Play the game and
 
 ## Demo
 
-Visit the live demo [here](https://sanmuga.github.io/Snake-game/).
+Visit the live demo [here]([https://sanmuga.github.io/Snake-game/](https://eloquent-scone-c7b452.netlify.app/)).
 
 ## Features
 
